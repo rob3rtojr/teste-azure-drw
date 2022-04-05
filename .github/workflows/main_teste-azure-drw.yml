@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'teste-azure-drw'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_021C0CA66945422BB3588B8A49E870C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6943FD3242C941758FF388217C13EA02 }}
           package: .
